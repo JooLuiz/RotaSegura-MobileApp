@@ -7,19 +7,19 @@ Rota Segura é um aplicativo móvel desenvolvido como parte do Trabalho de Concl
 
 ## Autores
 
-**Nome**: João Luiz de Castro
-**Instituição**: Instituto Federal de Ciência, Educação e Tecnologia (IFSP), campus Guarulhos
-**Ano de Publicação**: 2019
-**Outros Links**:
-- [Github](https://github.com/JooLuiz)
-- [ORCID](https://orcid.org/0009-0003-1669-4633)
-- [Lattes](http://lattes.cnpq.br/0659061239798618)
+- **Nome**: João Luiz de Castro
+- **Instituição**: Instituto Federal de Ciência, Educação e Tecnologia (IFSP), campus Guarulhos
+- **Ano de Publicação**: 2019
+- **Outros Links**:
+    - [Github](https://github.com/JooLuiz)
+    - [ORCID](https://orcid.org/0009-0003-1669-4633)
+    - [Lattes](http://lattes.cnpq.br/0659061239798618)
 
-**Nome**: Lucas Carvalho Silva
-**Instituição**: Instituto Federal de Ciência, Educação e Tecnologia (IFSP), campus Guarulhos
-**Ano de Publicação**: 2019
-**Outros Links**:
-- [Github](https://github.com/Lucas4500)
+- **Nome**: Lucas Carvalho Silva
+- **Instituição**: Instituto Federal de Ciência, Educação e Tecnologia (IFSP), campus Guarulhos
+- **Ano de Publicação**: 2019
+- **Outros Links**:
+    - [Github](https://github.com/Lucas4500)
 
 ## Funcionalidades
 
